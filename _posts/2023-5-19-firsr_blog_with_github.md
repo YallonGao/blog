@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "利用GitHub Pages搭建个人博客和展示项目"
-date:   2019-11-22
+date:   2023-5-19
 tags: [geek]
 comments: true
 author: yallongao
 ---
 
 利用GitHub Pages搭建个人博客并展示项目，无需服务器和域名，点击就送。
+
+<!-- more -->
 
 ## 写在前面
 
@@ -23,15 +25,18 @@ author: yallongao
 2. 利用GitHub Pages展示个人项目
 3. 搭建个人博客
 
-## 1 使用GitHub Pages
+## 使用GitHub Pages
 
-### 1.1 新建Gitub Pages
+拥有GitHub Pages是使用博客功能的基础，有简洁、自由、免费、无需域名、无需服务器、可以展示项目等优点，对于个人用户是一个nice的选择。
+
+### 新建Gitub Pages
 
 1. 准备好一个GitHub帐号
 2. 在[GitHub主页](https://github.com/)右上角点击加号，新建仓库（New repository）
 3. 记录Owner，这就是你的`username`，在Repository处填写`username.github.io`，`username`对大小写敏感
 4. 在下方点击create repository
 
-### 1.2 终端链接代码
+### 终端链接代码
 
-1. 
+1. 设备有`git`
+1. 在本地合适的

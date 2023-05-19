@@ -64,7 +64,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 8ed89d31e67b3547205e
   clientSecret: c5a9c81e8cf991efa3f31f869aad6ed79927ac4c
-  repo: yallongao.github.io
+  repo: blog
   owner: yallongao
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
