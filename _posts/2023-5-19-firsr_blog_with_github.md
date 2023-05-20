@@ -81,9 +81,7 @@ author: yallongao
 
 ## 利用GitHub Pages展示个人项目
 
-到这里你已经拥有了GitHub Pages，在搭建博客之前，先让我们看一下Github Pages
-
-另一个强悍的功能，展示项目，例如[Yallon的项目展示主页](https://yallongao.github.io/)。
+到这里你已经拥有了GitHub Pages，在搭建博客之前，先让我们看一下Github Pages另一个强悍的功能，展示项目，例如[Yallon的项目展示主页](https://yallongao.github.io/)。
 
 在项目展示主页你可以打开烟花链接，或者在这里[打开](https://yallongao.github.io/NewYearSolar/)，下面我们就以该项目作为示例，此处的烟花项目是github大佬分享，[这是烟花项目的原地址](https://github.com/NianBroken/Firework_Simulator)。
 
@@ -141,7 +139,7 @@ author: yallongao
 1. [烟花项目原址](https://github.com/NianBroken/Firework_Simulator)
 2. `cd ~/Project/GitHuhb.io `
 3. `git clone https://github.com/NianBroken/Firework_Simulator.git FireWorks`
-4. ` rm -rf FireWorks/.git/`删除多余的git，否则则会git上传不成功，也可以手动删除
+4. ` rm -rf FireWorks/.git/  ` 删除多余的git，否则则会git上传不成功，也可以手动删除
 5. `git add FireWorks`
 6. `git commit -m "烟花"`
 7. `git push`
@@ -154,3 +152,13 @@ author: yallongao
 ## 搭建个人博客
 
 通过上述我们也能发现如果只利用GitHub Pages搭建博客是有一些浪费的，这也是为什么我
+
+
+
+
+
+博客将在未来引用下述文章继续写
+
+https://lemonchann.github.io/create_blog_with_github_pages/
+
+https://blog.csdn.net/ftell/article/details/128065625
