@@ -35,13 +35,9 @@ author: yallongao
 ### 新建Gitub Pages
 
 1. 准备好一个GitHub帐号
-
 2. 在[GitHub主页](https://github.com/)右上角点击加号，新建仓库（New repository）
-
 3. 记录Owner，这就是你的`username`，以后会多次用到，在Repository处填写`username.github.io`，`username`对大小写敏感，我这里已经创建过了所以会有红色提醒
-
 4. 其他选项
-
    1. Description：对仓库的描述，可不填
    2. 仓库可见性一定选择Public
    3. Add a README file：[`README.md`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)介绍，建议选择
@@ -50,7 +46,7 @@ author: yallongao
 
 5. 直接在页面下方点击create repository
 
-   ![image-20230520102713115](/home/yanlong/Project/github-blog/assets/images/2023-5-19-firsr_blog_with_github/image-20230520102713115.png)
+![image-20230520102713115](../assets/images/2023-5-19-firsr_blog_with_github/image-20230520102713115.png)
 
 ### 将仓库拉到本地
 
